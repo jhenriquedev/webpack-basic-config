@@ -1,4 +1,5 @@
 const calcular = document.getElementById('calcular');
+import '../../../node_modules/bootstrap/dist/css/bootstrap.css';
 
 function imc () {
     const nome = document.getElementById('nome').value;
